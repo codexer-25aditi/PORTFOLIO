@@ -9,7 +9,7 @@
   background-color: #F9D371;
 }
 :root {
-  --bgOrange: #EF2F88;
+  --bgOrange:  #e84949;
 }
 
 #wrapper{
@@ -45,6 +45,8 @@
 .text{
     margin-left: -1.4rem;
     font-size: 28px;
+    color: #B3005E;
+    
 }
 
 .links{
