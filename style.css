@@ -6,7 +6,7 @@
   box-sizing:border-box;
   font-family: "Be Vietnam Pro", sans-serif;
   scroll-behavior: smooth;
-  background-color: #F9D371;
+  background-color: #F5F5F5;
 }
 :root {
   --bgOrange:  #e84949;
@@ -114,7 +114,7 @@
 .faded-text{
     position: absolute;
     font-size: 6em;
-    color:rgb(231,231,231);
+    color:#e84949;
     margin-top: 63%;
     left:3%;
     font-weight: bold;
@@ -133,7 +133,7 @@
 
 .role{
     font-weight:800;
-    color:#4e45d5;
+    color:#373ec7;
 }
 
 .lf-subheading{
@@ -381,7 +381,7 @@
     position:absolute;
     display:flex;
     flex-direction:column;
-    color:white;
+    color:rgb(8, 8, 8);
     padding:2em;
     bottom:20%;
     z-index:5;
